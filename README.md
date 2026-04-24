@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Alejandro 👋
 
 <!--
-**alegonq22/alegonq22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Engineering Graduate  
+🔍 Aspiring QA Engineer  
+💻 3+ years in Tech Support  
 
-Here are some ideas to get you started:
+## 🧠 About Me
+I'm transitioning into QA, currently learning and practicing:
+- Manual Testing
+- Test Case Design
+- Bug Reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I enjoy analyzing systems and finding ways to improve software quality.
+
+## 🛠️ Skills
+- Manual Testing (basic)
+- Bug Reporting
+- Test Case Design
+- SDLC (basic)
+- Jira (basic)
+- Postman (basic)
+
+## 📂 Projects
+🚧 Currently building my QA portfolio...
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/alegoqu22
 -->
