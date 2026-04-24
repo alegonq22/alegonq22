@@ -1,6 +1,4 @@
 ## Hi, I'm Alejandro 👋
-
-<!--
 🎓 Systems Engineering Graduate  
 🔍 Aspiring QA Engineer  
 💻 3+ years in Tech Support  
@@ -26,4 +24,7 @@ I enjoy analyzing systems and finding ways to improve software quality.
 
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/alegoqu22
+
+<!--
+
 -->
